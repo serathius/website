@@ -1155,7 +1155,7 @@ filename | sha256 hash
 
 # v1.9.0-alpha.3
 
-[Documentation](https://docs.k8s.io) & [Examples](https://releases.k8s.io/master/examples)
+[Documentation](https://docs.k8s.io) & [Examples](https://github.com/kubernetes/examples/tree/master)
 
 ## Downloads for v1.9.0-alpha.3
 
@@ -1289,7 +1289,7 @@ filename | sha256 hash
 
 # v1.9.0-alpha.2
 
-[Documentation](https://docs.k8s.io) & [Examples](https://releases.k8s.io/master/examples)
+[Documentation](https://docs.k8s.io) & [Examples](https://github.com/kubernetes/examples/tree/master)
 
 ## Downloads for v1.9.0-alpha.2
 
@@ -1550,7 +1550,7 @@ filename | sha256 hash
 
 # v1.9.0-alpha.1
 
-[Documentation](https://docs.k8s.io) & [Examples](https://releases.k8s.io/master/examples)
+[Documentation](https://docs.k8s.io) & [Examples](https://github.com/kubernetes/examples/tree/master)
 
 ## Downloads for v1.9.0-alpha.1
 
